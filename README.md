@@ -1,4 +1,4 @@
-# 📘 ZeusLib --- Documentação Oficial Completa
+# 📘 ZeusLib --- Documentação Oficial
 
 ## 🌩️ Sobre
 
