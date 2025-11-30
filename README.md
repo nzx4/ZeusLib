@@ -10,7 +10,7 @@ notificações, além de suportar salvamento automático de configurações.
 ## 📦 Instalação
 
 ``` lua
-local ZeusLib = loadstring(game:HttpGet("https://pastefy.app/TfCN9JhU/raw"))()
+local ZeusLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/nzx4/ZeusLib/refs/heads/main/SourceObf/ZeusLib.luau"))()
 ```
 
 ## 🪟 Criando a Janela Principal
@@ -176,4 +176,4 @@ Tab:AddToggle({
 
 ## 📣 Créditos
 
-Desenvolvido por VITOR HUGO.
+Desenvolvido por Nzx4_.
